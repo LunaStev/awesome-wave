@@ -2,6 +2,7 @@ name: Awesome Lint Check
 
 on:
   push:
+    branches: [ "master" ]
     paths:
       - 'README.md'
   workflow_dispatch:
