@@ -46,6 +46,8 @@ Wave is a statically typed, low-level programming language designed to replace C
 - [Discord](https://discord.com/invite/Kuk2qXFjc5)
 - [Ko-fi (Support)](https://ko-fi.com/lunasev)
 
+---
+
 ## Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
