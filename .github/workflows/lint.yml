@@ -3,6 +3,8 @@ name: Awesome Lint Check
 on:
   push:
     branches: [ "master" ]
+    pull_request:
+      branches: [ "master" ]
     paths:
       - 'README.md'
   workflow_dispatch:
