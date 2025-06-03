@@ -3,7 +3,7 @@ name: Awesome Lint Check
 on:
   push:
     paths:
-      - '**/*.md'
+      - 'README.md'
   workflow_dispatch:
 
 jobs:
