@@ -14,7 +14,6 @@ Wave is a statically typed, low-level programming language designed to replace C
 - [Tools](#tools)
 - [Projects Using Wave](#projects-using-wave)
 - [Community](#community)
-- [Contributing](#contributing)
 
 ---
 
