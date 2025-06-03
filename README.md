@@ -25,8 +25,8 @@ Wave is a statically typed, low-level programming language designed to replace C
 
 ## Getting Started
 
-- [Hello World](https://github.com/LunaStev/Wave/tree/main/examples/hello_world) - A simple "Hello, World!" program.
-- [Wave Syntax Overview](https://github.com/LunaStev/Wave/wiki/Syntax) - A basic guide to Wave syntax.
+- [Hello World](https://github.com/LunaStev/Wave/tree/master/test/test2.wave) - A simple "Hello, World!" program.
+- [Wave Syntax Overview](https://wave-lang.dev/docs/syntax) - A basic guide to Wave syntax.
 
 ## Libraries
 
