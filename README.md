@@ -30,9 +30,7 @@ Wave is a statically typed, low-level programming language designed to replace C
 
 ## Libraries
 
-- `iosys` – Low-level I/O system support. *(coming soon)*
-- `http` – HTTP client and server implementation. *(in development)*
-- `wson` – Lightweight serialization format designed for Wave.
+- [Standard Library](https://github.com/LunaStev/std) - Wave Standard Library
 
 ## Tools
 
