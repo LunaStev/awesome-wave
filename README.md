@@ -1,6 +1,6 @@
 # Awesome Wave [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources, libraries, and projects built with the [Wave programming language](https://wave-lang.dev).
+> A curated list of awesome resources, libraries, and projects built with the Wave programming language.
 
 Wave is a statically typed, low-level programming language designed to replace C and Assembly while offering modern abstractions through a powerful standard library.
 
@@ -30,7 +30,7 @@ Wave is a statically typed, low-level programming language designed to replace C
 
 ## Libraries
 
-- [Standard Library](https://github.com/LunaStev/std) - Wave Standard Library
+- [Standard Library](https://github.com/LunaStev/std) - Wave Standard Library.
 
 ## Tools
 
@@ -50,10 +50,3 @@ Wave is a statically typed, low-level programming language designed to replace C
 ## Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
