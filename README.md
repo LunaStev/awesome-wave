@@ -38,12 +38,13 @@ Wave is a statically typed, low-level programming language designed to replace C
 
 ## Projects Using Wave
 
-- None - No project has yet used the Wave programming language.
+- [Wave Sendfile](https://github.com/LunaStev/wave_sendfile) - It implements a low-level file transmission and I/O system.
 
 ## Community
 
 - [Discussions](https://github.com/LunaStev/Wave/discussions)
 - [Discord](https://discord.com/invite/Kuk2qXFjc5)
+- [Github Sponsor (Support)](https://github.com/sponsors/LunaStev)
 - [Ko-fi (Support)](https://ko-fi.com/lunasev)
 
 ---
