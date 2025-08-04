@@ -13,6 +13,7 @@ Wave is a statically typed, low-level programming language designed to replace C
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Projects Using Wave](#projects-using-wave)
+- [Blog Post](#blog-post)
 - [Community](#community)
 
 ---
@@ -39,6 +40,13 @@ Wave is a statically typed, low-level programming language designed to replace C
 ## Projects Using Wave
 
 - [Wave Sendfile](https://github.com/LunaStev/wave_sendfile) - It implements a low-level file transmission and I/O system.
+
+## Blog Post
+
+- [Wave Language Performance Benchmark: Comparison with C and Rust](https://blog.wave-lang.dev/wave-language-performance-benchmark-comparison-with-c-and-rust)
+- [Printing Hello World from Scratch in Wave](https://blog.wave-lang.dev/printing-hello-world-from-scratch-in-wave)
+- [Booting from Scratch in Wave: Printing ‘H’ at 0x7C00](https://blog.wave-lang.dev/booting-from-scratch-in-wave-printing-h-at-0x7c00)
+- [Printing Characters via BIOS Using Inline Assembly in Wave](https://blog.wave-lang.dev/printing-characters-via-bios-using-inline-assembly-in-wave)
 
 ## Community
 
